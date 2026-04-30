@@ -5,8 +5,10 @@
 ```
 Download Python di:
 https://www.python.org/downloads/
+
 Saat instalasi:
 ✔ Centang **Add Python to PATH**
+
 Cek instalasi:
 py --version
 ```
